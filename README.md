@@ -1,0 +1,1 @@
+# kibana_object_format_6.6.2
